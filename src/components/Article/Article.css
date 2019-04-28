@@ -1,0 +1,12 @@
+.article-container{
+    margin-top: 5px;
+    margin-bottom: 20px;
+    display: flex;
+    flex: 1;
+}
+
+.article-container-div{
+    display: flex;
+    justify-content: center;
+    width: 60%;
+}

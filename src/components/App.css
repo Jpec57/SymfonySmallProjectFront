@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.body{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+}
+
+.form-group{
+  display: flex;
+  min-height: 75px;
+  flex-direction: column;
+}
+
+.error-message{
+  color: red;
+}
